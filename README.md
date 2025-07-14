@@ -1,5 +1,5 @@
 
-# ormula 1 Race Outcome Prediction
+# Formula 1 Race Outcome Prediction
 
 This project analyzes historical Formula 1 racing data to explore driver performance and build a machine learning model that predicts race finishing positions. It combines real-world motorsport data, exploratory data analysis (EDA), and predictive modeling techniques.
 
